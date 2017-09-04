@@ -1,7 +1,7 @@
-# iota
+# IOTA Projects
 Iota development experience
 
-## Project
+## Initial Project
 
 ## Wallet on raspberry pi 3
 
