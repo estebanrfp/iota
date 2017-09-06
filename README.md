@@ -25,3 +25,6 @@ Currently, there is no official support for ARM architecture. But it should come
 [The IOTA Developer Hub](https://iota.readme.io/)
 
 [IOTA Description by desarrolloactivo.com](https://desarrolloactivo.com/articulos/iota/)
+
+## Issues
+Post issues on [here](https://github.com/estebanrfp/iota/issues), to ensure that the developers of the library can improve it.
