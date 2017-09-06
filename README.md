@@ -2,7 +2,7 @@
 Iota development experience
 
 ## Initial Project
-You can read our [github wiki](https://github.com/estebanrfp/iota/wiki) it is intended to be updated.
+You can read our [github wiki](https://github.com/estebanrfp/iota/wiki). It is intended to be updated.
 
 Maybe you will find it in spanish too.
 
