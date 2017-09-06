@@ -15,3 +15,4 @@ Currently, there is no official support for ARM architecture. But it should come
 
 ## Documentation
 [The IOTA Developer Hub](https://iota.readme.io/)
+[IOTA Description by desarrolloactivo.com](https://desarrolloactivo.com/articulos/iota/)
