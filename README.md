@@ -20,6 +20,8 @@ Currently, there is no official support for ARM architecture. But it should come
 ## How to setup IOTA network on Raspberry Pi
 
 ## Documentation
+[Starting with the repository development group](https://github.com/estebanrfp/iota/blob/master/getting-started.md)
+
 [The IOTA Developer Hub](https://iota.readme.io/)
 
 [IOTA Description by desarrolloactivo.com](https://desarrolloactivo.com/articulos/iota/)
