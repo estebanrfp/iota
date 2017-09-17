@@ -8,3 +8,6 @@ Trabajaremos cada iniciativa en carpetas independientes.
 Será una ventaja para cada nuevo desarrollador que se sume al proyecto ya que se encontrará con la posibilidad
 de acceder a cada propuesta. La idea es trabajar en un mismo repositorio para poder conmutar fácilmente entre proyectos.
 En un futuro surgirán propuestas en base a nuestras experiencias para proponer la creación de nuevos repositorios.
+
+### Recursos
+[Git (Guía interactiva)](http://estebanrfp.github.io/git/public/#/home)
