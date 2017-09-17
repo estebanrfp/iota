@@ -10,4 +10,4 @@ de acceder a cada propuesta. La idea es trabajar en un mismo repositorio para po
 En un futuro surgirán propuestas en base a nuestras experiencias para proponer la creación de nuevos repositorios.
 
 ### Recursos
-[Git (Guía interactiva)](http://estebanrfp.github.io/git/public/#/home)
+[Git (Guía interactiva)](http://estebanrfp.github.io/git-guide/public/#/home)
